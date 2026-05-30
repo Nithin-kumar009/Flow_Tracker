@@ -23,7 +23,7 @@ Deployed on Render (both frontend and backend).
 
 ### 1 — Clone the repo
 
-git clone https://github.com/YOUR_USERNAME/flowtrack.git
+git clone gh repo clone Nithin-kumar009/Flow_Tracker
 cd flowtrack
 
 ### 2 — Configure the backend
